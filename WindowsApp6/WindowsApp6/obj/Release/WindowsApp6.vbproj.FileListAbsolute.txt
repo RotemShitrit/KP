@@ -1,0 +1,16 @@
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\WindowsApp6.vbprojAssemblyReference.cache
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\WindowsApp6.Form1.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\WindowsApp6.Form2.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\WindowsApp6.Form4.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\WindowsApp6.Form5.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\WindowsApp6.Resources.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\WindowsApp6.Form3.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\bin\Release\MuellerPC - Version 1.3.exe.config
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\bin\Release\MuellerPC - Version 1.3.exe
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\bin\Release\MuellerPC - Version 1.3.pdb
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\bin\Release\MuellerPC - Version 1.3.xml
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\MuellerPC - Version 1.3.exe
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\MuellerPC - Version 1.3.xml
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Release\MuellerPC - Version 1.3.pdb

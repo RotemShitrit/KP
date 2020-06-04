@@ -1,0 +1,17 @@
+version 1.5:
+fix the work order problem with toast message: "...Refuse."
+
+version 1.6:
+- change text in work order 5 activity: "MTU" --> "Node"
+- change text programming activity: "Please Magnet Swipe Node" --> "Click READ and swipe a magnet on the node"
+- add a button upload on new activity after it finished to get log history
+- change text on toast in log history: "Send requests.." --> "finalizing Process.."
+- change text in work order 6: **GPS Status** removed and replace: "Your Device's GPS is disable" --> "The GPS on your device is disabled"
+- fix toast message "uploaded to FTP!" that was shown in error situation that can not upload file to FTP
+- change text in RDM activity: "kpe" --> "extended"
+- change text in RDM activity: "No MTU connected, please click CONNECT and swipe magnet over MTU" --> "Please click CONNECT and swipe a magnet on the node".
+
+version 1.7:
+- RDM Conrtroll: add Tamper identification to RDM control.
+- History Log: change the process of the uploading to FTP --> first we save the history log file on internal folder "saved_logs". 
+			   we added a button to the first layout of history log that allow to the user to choose one file in order to upload it to FTP.

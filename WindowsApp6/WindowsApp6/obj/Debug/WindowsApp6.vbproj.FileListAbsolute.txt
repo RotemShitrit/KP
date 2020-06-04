@@ -1,0 +1,16 @@
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbprojAssemblyReference.cache
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbproj.GenerateResource.cache
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.vbproj.CoreCompileInputs.cache
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Form2.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Form3.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Form4.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\WindowsApp6.Form5.resources
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\bin\Debug\MuellerPC.exe.config
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\bin\Debug\MuellerPC.exe
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\bin\Debug\MuellerPC.pdb
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\bin\Debug\MuellerPC.xml
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\MuellerPC.exe
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\MuellerPC.xml
+C:\Users\rotem\source\repos\WindowsApp6\WindowsApp6\obj\Debug\MuellerPC.pdb
